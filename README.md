@@ -1,1 +1,1 @@
-# phonebook-icp
+# icp-workshop
